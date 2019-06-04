@@ -1,0 +1,8 @@
+**/.cache
+**/__pycache__
+**/*.pyc
+/venv
+/build/kibana/Dockerfile*
+/docker-compose*.yml
+/snapshots
+/.pytest_cache
